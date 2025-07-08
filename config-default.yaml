@@ -1,0 +1,13 @@
+app:
+  features:
+  - temperature_control
+  - remote_access
+  - energy_saving
+  last_modified: '2025-07-08T13:52:18.133634'
+  mode: cool
+  name: SmartThermo
+  set_point: 23
+  version: 1.0.0
+logging:
+  file: logs/output.log
+  level: info
